@@ -15,8 +15,6 @@ Feel free to drop my a line! I'd love to get some ideas moving.
 * Bootstrap
 * SQLite
 * Flask
-<br>
-
 ### Also working on...
 * 🚲 Biking and tuning up bikes are my newest hobby!
 * 🕺 My passion is social dancing
