@@ -2,7 +2,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/donnyphanmeceng/">![LinkedIn](https://user-images.githubusercontent.com/74743983/115660042-72bdb300-a309-11eb-8248-1ee0c36969be.PNG)</a>
+<a href="https://www.linkedin.com/in/donnyphanmeceng/" target="_blank">![LinkedIn](https://user-images.githubusercontent.com/74743983/115660042-72bdb300-a309-11eb-8248-1ee0c36969be.PNG)</a>
 <a href="https://twitter.com/DonnyPhan5">![twitter](https://user-images.githubusercontent.com/74743983/115660095-82d59280-a309-11eb-9a05-bf75a70a4691.PNG)</a>
 <a href="https://www.facebook.com/donny.phan.3">![facebook](https://user-images.githubusercontent.com/74743983/115660104-8701b000-a309-11eb-9308-33aac348c61c.PNG)</a>
 <a href="https://www.instagram.com/donthephan/">![instagram](https://user-images.githubusercontent.com/74743983/115660122-8bc66400-a309-11eb-8c28-9cb1af1d6bee.PNG)</a>
