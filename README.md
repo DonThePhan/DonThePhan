@@ -15,14 +15,16 @@ I hope you find something here that inspires you!
 
 Feel free to drop my a line! I'd love to get some ideas moving.
 
-### 💻 Currently working in:
-* Python
-* HTML
+### 💻 Skills:
+* Python, Flask, SQLite
+* JavaScript, jQuery, NodeJs, React
+* HTML, EJS
 * CSS
-* JavaScript
 * Bootstrap
-* SQLite
-* Flask
+* MongoDB, Mongoose
+* OOP
+* API
+* Git
 ### Also working on...
 * 🚲 Biking and tuning up bikes are my newest hobby!
 * 🕺 My passion is social dancing
