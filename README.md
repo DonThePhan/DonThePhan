@@ -6,8 +6,9 @@ I've taken a deep interest in solving problems with technology ever since and am
 Here are my Project Highlights:
 - https://github.com/DonThePhan/Grid-Path-Finder (ReactJS)
 - https://github.com/DonThePhan/food-api (ReactJS)
-- https://github.com/DonThePhan/Tetris (Python)
 - https://github.com/DonThePhan/ecommerse (ReactJS)
+- https://github.com/DonThePhan/Tetris (Python)
+
 
 ### 💻 Skills:
 * Frontend
