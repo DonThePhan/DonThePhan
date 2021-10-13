@@ -8,6 +8,7 @@ Here are my Project Highlights:
 - https://github.com/DonThePhan/food-api (ReactJS)
 - https://github.com/DonThePhan/ecommerse (ReactJS)
 - https://github.com/DonThePhan/Tetris (Python)
+- https://github.com/DonThePhan/Web-Sudoku-Solver (No Framework)
 
 
 ### 💻 Skills:
