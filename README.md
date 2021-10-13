@@ -13,7 +13,7 @@ Here are my Project Highlights:
 
 ### 💻 Skills:
 * Frontend
-* ReactJS, Node.js
+* ReactJS, Next.js
 * JavaScript, HTML, CSS, EJS, jQuery
 * Python, Flask, SQLite
 * Bootstrap
