@@ -4,7 +4,7 @@ Hi! I'm from Canada and have been programming during our Corona Vacation startin
 I've taken a deep interest in solving problems with technology ever since and am now focusing on Web Dev.
 
 Here are my Project Highlights:
-- *WIP: https://github.com/kivakiva/story-time (ReactJS, Tailwind CSS + Daisy UI, Node.js, Express, PostGreSQL)
+- https://github.com/kivakiva/story-time (ReactJS, Tailwind CSS + Daisy UI, Node.js, Express, PostGreSQL)
 - https://github.com/DonThePhan/Grid-Path-Finder (ReactJS)
 - https://github.com/DonThePhan/ecommerse (ReactJS)
 - https://github.com/DonThePhan/food-api (ReactJS)
